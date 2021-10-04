@@ -16,7 +16,7 @@ public class Course {
     //  Course objects equal.
 
     public String toString() {
-        String courseReport = String.format("The topic is %s taught by %s with a number of %d enrolled students.", this.topic, this.instructor, this.enrolledStudents);
+        String courseReport = String.format("The topic is %s taught by %s with a number of %s enrolled students.", this.topic, this.instructor, this.enrolledStudents);
         return courseReport;
     }
 
