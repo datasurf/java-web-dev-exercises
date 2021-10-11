@@ -33,7 +33,6 @@ public class CarTest {
         assertEquals(9, test_car.getGasTankLevel(),.001);
     }
 
-
     //TODO: gasTankLevel is accurate after attempting to drive past tank range
     @Test
     public void testGasTankAfterExceedingTankRange() {
