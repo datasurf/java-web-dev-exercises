@@ -1,6 +1,7 @@
+/*
 package exercises.technology;
 
-public class Computer {
+public class Computer extends AbstractEntity{
     // computer is my parent class
 
     private int ram;
@@ -21,4 +22,4 @@ public class Computer {
     public void increaseStorage (int x) {
         this.storage = this.storage + x;
     }
-}
+}*/

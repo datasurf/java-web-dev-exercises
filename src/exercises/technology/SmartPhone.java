@@ -1,3 +1,4 @@
+/*
 package exercises.technology;
 
 public class SmartPhone extends Computer {
@@ -17,3 +18,4 @@ public class SmartPhone extends Computer {
         return this.numberOfSelfies;
     }
 }
+*/

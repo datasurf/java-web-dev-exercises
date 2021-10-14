@@ -1,3 +1,4 @@
+/*
 package exercises.technology;
 
 public class Laptop extends Computer {
@@ -17,4 +18,4 @@ public class Laptop extends Computer {
             return false;
         }
     }
-}
+}*/
